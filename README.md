@@ -13,5 +13,5 @@ A ToDoList and Angenda tracker app using React Native as well as incoportaing Mo
 * 🍃 MONGODB
 * 👩‍💻 DEVOPS
 
-https://github.com/user-attachments/assets/9d7d2a52-593f-421b-9e17-3d60829524b3 
+https://streamable.com/row6pv3d60829524b3 
 
