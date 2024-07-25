@@ -7,7 +7,7 @@
 * 📱 **REACT-NATIVE (EXPO)**
 * 🟢 **NODEJS**
 * 🍃 **MONGODB**
-* 👩‍💻 **DEVOPS**
+
 
 Watch a demo of the app in action:
 
