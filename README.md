@@ -1,6 +1,6 @@
 # ToDoList and Agenda Tracker App
 
-![ToDoList and Agenda Tracker App](https://i.imghippo.com/files/tOV3J1723456404.png)
+![ToDoList and Agenda Tracker App](https://i.imghippo.com/files/0cLRv1723574916.jpg)
 
 ## Preview of Main Components and Functionalities
 
