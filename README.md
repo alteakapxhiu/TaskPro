@@ -9,7 +9,7 @@
 * 🍃 **MONGODB**
 
 
-Watch a demo of the app in action:
+Watch a demo video of the app in action:
 
 [![Watch the video](https://img.youtube.com/vi/9TDUVcv2_yM/maxresdefault.jpg)](https://www.youtube.com/watch?v=9TDUVcv2_yM)
 
